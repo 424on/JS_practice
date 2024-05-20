@@ -168,7 +168,7 @@ console.log(iveMembersArray);
 console.log(typeof iveMembersArray);
 
 /**
- * static typing -> 변수를 선언할때 어떤 타입의 변수를 선언할지 명시르 한다.
+ * static typing -> 변수를 선언할때 어떤 타입의 변수를 선언할지 명시를 한다.
  *      C
  * dynamic typing -> 변수의 타입을 명시적으로 선언하지 않고 값에 의해 타입을 "추론"한다.
  * Js - dynamic typing
